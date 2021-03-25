@@ -1,0 +1,12 @@
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.exe
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.deps.json
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.runtimeconfig.json
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.runtimeconfig.dev.json
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.dll
+C:\Users\Nick.Spicer\Documents\Snap\Snap\bin\Debug\netcoreapp3.1\Snap.pdb
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.csprojAssemblyReference.cache
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.AssemblyInfoInputs.cache
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.AssemblyInfo.cs
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.dll
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.pdb
+C:\Users\Nick.Spicer\Documents\Snap\Snap\obj\Debug\netcoreapp3.1\Snap.genruntimeconfig.cache
